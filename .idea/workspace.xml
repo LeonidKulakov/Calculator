@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5af4aa7d-fe19-48de-83bc-89fa285b631d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Awld0tM4g8j80OmKQNkTk4NSid" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Asus/Downloads/04-java-basic-calculator-master/04-java-basic-calculator-master"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.CalculatorTestCase">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercise.java_basic.calculator.Calculator" />
+      <module name="java_basic_calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exercise.java_basic.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTestCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_basic_calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exercise.java_basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.exercise.java_basic" />
+      <option name="MAIN_CLASS_NAME" value="com.exercise.java_basic.CalculatorTestCase" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTestCase.testDiv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_basic_calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exercise.java_basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.exercise.java_basic" />
+      <option name="MAIN_CLASS_NAME" value="com.exercise.java_basic.CalculatorTestCase" />
+      <option name="METHOD_NAME" value="testDiv" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTestCase.testDivNegativeByZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_basic_calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exercise.java_basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.exercise.java_basic" />
+      <option name="MAIN_CLASS_NAME" value="com.exercise.java_basic.CalculatorTestCase" />
+      <option name="METHOD_NAME" value="testDivNegativeByZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTestCase.testMultiply" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_basic_calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exercise.java_basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.exercise.java_basic" />
+      <option name="MAIN_CLASS_NAME" value="com.exercise.java_basic.CalculatorTestCase" />
+      <option name="METHOD_NAME" value="testMultiply" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorTestCase" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="JUnit.CalculatorTestCase.testDiv" />
+        <item itemvalue="JUnit.CalculatorTestCase.testDivNegativeByZero" />
+        <item itemvalue="JUnit.CalculatorTestCase.testMultiply" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5af4aa7d-fe19-48de-83bc-89fa285b631d" name="Changes" comment="" />
+      <created>1655928614205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655928614205</updated>
+    </task>
+    <servers />
+  </component>
+</project>
