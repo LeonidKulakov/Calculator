@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5af4aa7d-fe19-48de-83bc-89fa285b631d" name="Changes" comment="" />
+    <list default="true" id="5af4aa7d-fe19-48de-83bc-89fa285b631d" name="Changes" comment="Calculator commit">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exercise/java_basic/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/exercise/java_basic/calculator/Calculator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -21,6 +31,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2Awld0tM4g8j80OmKQNkTk4NSid" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,7 +40,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Asus/Downloads/04-java-basic-calculator-master/04-java-basic-calculator-master"
+    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/04-java-basic-calculator-master"
   }
 }]]></component>
   <component name="RunManager" selected="JUnit.CalculatorTestCase">
@@ -128,6 +139,41 @@
       <option name="presentableId" value="Default" />
       <updated>1655928614205</updated>
     </task>
+    <task id="LOCAL-00001" summary="Calculator commit">
+      <created>1656098442803</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656098442803</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Calculator commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculator commit" />
   </component>
 </project>
